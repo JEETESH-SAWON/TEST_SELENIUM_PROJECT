@@ -3,6 +3,11 @@ _______________________________THIS IS MY FIRST PROJECT WITH SELENIUM___________
 
 pip install -r requirements.txt ----------- To install all required library
 
+ITS A WEB CRALAWER FOR AMAZON AND FLIPCART PRODUCT
+IT FETCH NAME PRICE MODEL_NO LINK WEBSIT OF PRODUCT AND PUT IT TO TWO DIFFERENT EXCEL SHEET
+ONE FOR AMAZON
+OTHER FOR FLIPCART
+
 Please give it more than one try coz some time (time-out error) occurred
 
 TO HIDE BROWSER SET BROWSER HEADLESS OPTION TO TRUE
